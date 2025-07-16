@@ -66,8 +66,7 @@ To build a machine learning model that:
 
        False       0.98      0.98      0.98       960
         True       0.89      0.85      0.87       154
-
-    accuracy                           0.96      1114
+     accuracy       _         _         0.96      1114
    macro avg       0.93      0.92      0.92      1114
 weighted avg       0.96      0.96      0.96      1114
 
